@@ -9,7 +9,7 @@ if (typeof window !== 'undefined') {
 
 const getBaseUrl = () => {
   // return 'http://localhost:5000'
-	return 'https://egyptians-abroad-backend.herokuapp.com'
+	return 'https://egyptians-abroad-backend-skio7-5ac241.backends.deploykar.tech'
 }
 
 const apiClient = axios.create({
