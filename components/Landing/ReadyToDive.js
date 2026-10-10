@@ -77,7 +77,7 @@ export const SectionButtonWrapper = styled.div`
 `
 
 export const SectionButton = styled(Button)`
-  background: linear-gradient(to bottom, #2bc9ff, #1399ff 100%) !important;
+  background: linear-gradient(to bottom, #a855f7, #ec4899 100%) !important;
   width: 281px !important;
   height: 46px !important;
   padding: 0 12px !important;

@@ -65,7 +65,7 @@ export default function ConnectAccrossGlobe() {
 
       <MainContent>
         <TextWrapper>
-          <Title>Better Connect Egyptians Accross The Globe</Title>
+          <Title>Connect With Egyptians All Across The Globe</Title>
           <SubTitle>
             There are more than <span>10 million</span> overseas egyptians
             living abroad! and they are eager to help other egyptians.{' '}
@@ -208,7 +208,7 @@ export const SectionButtonWrapper = styled.div`
 `
 
 export const SectionButton = styled(Button)`
-  background: linear-gradient(to bottom, #2bc9ff, #1399ff 100%) !important;
+  background: linear-gradient(to bottom, #a855f7, #ec4899 100%) !important;
   width: 295px !important;
   height: 46px !important;
   padding: 0 12px !important;
@@ -317,7 +317,7 @@ export const Logo = styled.p`
   font-size: 30px;
   font-family: 'Caveat', cursive;
   font-weight: 700;
-  color: #1399ff;
+  color: #9333ea;
 `
 
 export const LinksWrapper = styled.div`
@@ -344,7 +344,7 @@ export const ButtonsWrapper = styled.div`
 `
 
 export const SignupButton = styled(Button)`
-  background: linear-gradient(to bottom, #2bc9ff, #1399ff 100%) !important;
+  background: linear-gradient(to bottom, #a855f7, #ec4899 100%) !important;
   width: 100px !important;
   height: 38px !important;
   padding: 0 12px !important;

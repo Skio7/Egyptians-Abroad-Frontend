@@ -13,13 +13,13 @@ export default function AskAboutAnything() {
       </Title>
       <SubTitle>
         Are you moving to a new city ? <br /> Do you want to know where is
-        Halal-Food shops ? <br />
-        Ask real people from the city that you move to , you will get answers
+        the best Halal-Food shops? <br />
+        Ask real people from the city that you move to , and get answers
         you will never find in Google!
       </SubTitle>
       <SectionButtonWrapper>
         <Link href='/signup' passHref>
-          <SectionButton variant='contained'>Ask Now</SectionButton>
+          <SectionButton variant='contained'>Ask Your Question</SectionButton>
         </Link>
       </SectionButtonWrapper>
     </Wrapper>
@@ -104,7 +104,7 @@ export const SectionButtonWrapper = styled.div`
 `
 
 export const SectionButton = styled(Button)`
-  background: linear-gradient(to bottom, #2bc9ff, #1399ff 100%) !important;
+  background: linear-gradient(to bottom, #a855f7, #ec4899 100%) !important;
   width: 281px !important;
   height: 46px !important;
   padding: 0 12px !important;

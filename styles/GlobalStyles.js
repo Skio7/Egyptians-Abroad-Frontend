@@ -9,7 +9,7 @@ body {
 	/* font-family: 'Caveat', cursive; */
   font-family: Segoe -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, 
 	Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	background-color: #fafafa;
+	background-color: #faf5ff;
 	touch-action: manipulation;
 }
 

@@ -78,7 +78,7 @@ export const ButtonsWrapper = styled.div`
 `
 
 export const SignupButton = styled(Button)`
-  background: linear-gradient(to bottom, #2bc9ff, #1399ff 100%) !important;
+  background: linear-gradient(to bottom, #a855f7, #ec4899 100%) !important;
   width: 142px !important;
   height: 38px !important;
   padding: 0 12px !important;
